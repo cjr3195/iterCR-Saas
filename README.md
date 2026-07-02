@@ -6,7 +6,7 @@
 
 Click the image below to experience the real-time tracking and logistics flow:
 
-[![IterCR Interactive Demo]([URL_DE_TU_VIDEO_GUIDDE_AQUI](https://embed.app.guidde.com/playbooks/wLEdu5YcbZtaQdhYMgfk6T?mode=videoOnly))
+[![IterCR Interactive Demo](https://embed.app.guidde.com/playbooks/wLEdu5YcbZtaQdhYMgfk6T?mode=videoOnly)
 
 ---
 

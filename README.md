@@ -6,7 +6,8 @@
 
 Click the image below to experience the real-time tracking and logistics flow:
 
-[![image](<img width="492" height="665" alt="Login" src="https://github.com/user-attachments/assets/3f348043-63fc-4f65-9a64-0cfb9511cfe9" />)](https://embed.app.guidde.com/playbooks/wLEdu5YcbZtaQdhYMgfk6T?mode=videoOnly)
+[![image](<img width="492" height="665" alt="Login" src="https://github.com/user-attachments/assets/3f348043-63fc-4f65-9a64-0cfb9511cfe9" />)]<img width="492" height="665" alt="Login" src="https://github.com/user-attachments/assets/2366da19-5033-4bcb-8d03-f4fb83246003" />
+(https://embed.app.guidde.com/playbooks/wLEdu5YcbZtaQdhYMgfk6T?mode=videoOnly)
 ---
 
 ## 🛠️ System Architecture
